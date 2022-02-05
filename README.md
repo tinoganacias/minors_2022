@@ -19,8 +19,9 @@ This is my 2021 Minor League Baseball fantasy, rankings, and tools database. It 
 
 ## Usage
 
-![image](![image](https://user-images.githubusercontent.com/84544540/152619263-eb1f162a-f980-4818-9875-d6e838662967.png)
-)
+![image](https://user-images.githubusercontent.com/84544540/152619563-9a176e46-5917-4a2f-8228-1f3307509ea9.png)
+
+
 
 ## License 
 
